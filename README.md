@@ -1,7 +1,8 @@
 # 🏥 faCIDita - Gestão Inteligente de Atestados
 
 <div align="center">
-  <img src="./assets/logo.png" alt="faCIDita Logo" width="200">
+ <img width="255" height="102" alt="logo png" src="https://github.com/user-attachments/assets/c1609e7a-7c35-40ba-a093-75809aeabee2" />
+
   <p><em>A plataforma definitiva em nuvem para automação de RH, leitura inteligente de atestados (OCR) e saúde preditiva corporativa.</em></p>
   
   ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-40D8C3)
