@@ -2,7 +2,8 @@
 # 🏥 faCIDita - Gestão Inteligente de Atestados
 
 <div align="center">
-![logo](https://github.com/user-attachments/assets/65ff0a64-29d9-4cd9-853d-2aed99b4e7f7)
+<img width="255" height="102" alt="logo png" src="https://github.com/user-attachments/assets/230bf629-379c-41e6-8f9a-dcf05264e03c" />
+
 
 
 
